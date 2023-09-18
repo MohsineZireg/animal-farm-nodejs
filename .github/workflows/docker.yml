@@ -38,5 +38,5 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: |
+          tags: | 
             mohsinez/animal-farm-nodejs:latest
